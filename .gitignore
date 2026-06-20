@@ -28,3 +28,7 @@ dist/
 
 # OS
 Thumbs.db
+
+# Notebook exports (PDF/HTML) - generated locally, not versioned
+*.pdf
+*.html

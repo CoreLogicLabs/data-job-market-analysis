@@ -29,12 +29,12 @@ finding in plain English.
 
 | # | Insight | Evidence |
 |---|---------|----------|
-| 1 | **Experience is the #1 pay lever** | Entry-level **~$86k** → Executive **~$236k** (**≈2.7×**) |
-| 2 | **Location sets the ceiling** | US **~$168k** & Switzerland **~$162k** vs India **~$60k** / Brazil **~$55k** (**≈3×**) |
-| 3 | **Demand ≠ pay** | Most common role (Data Analyst, **~$110k**) is the *lowest*-paid; top pay goes to Data Science Manager (**~$188k**) & AI Engineer (**~$178k**) |
-| 4 | **Remote premium is small** | Remote **~$145k** vs Onsite **~$139k** (**≈5%**) |
-| 5 | **Salaries are trending up** | Overall median **+23.5%** from 2020 (~$122k) to 2024 (~$151k) |
-| 6 | **Company size matters least** | Large **~$153k** vs Small **~$126k** |
+| 1 | **Experience is the #1 pay lever** | Entry-level **`~$86k`** → Executive **`~$236k`** (**≈2.7×**) |
+| 2 | **Location sets the ceiling** | US **`~$168k`** & Switzerland **`~$162k`** vs India **`~$60k`** / Brazil **`~$55k`** (**≈3×**) |
+| 3 | **Demand ≠ pay** | Most common role (Data Analyst, **`~$110k`**) is the *lowest*-paid; top pay goes to Data Science Manager (**`~$188k`**) & AI Engineer (**`~$178k`**) |
+| 4 | **Remote premium is small** | Remote **`~$145k`** vs Onsite **`~$139k`** (**≈5%**) |
+| 5 | **Salaries are trending up** | Overall median **+23.5%** from 2020 (`~$122k`) to 2024 (`~$151k`) |
+| 6 | **Company size matters least** | Large **`~$153k`** vs Small **`~$126k`** |
 
 *Based on **8,615** cleaned salary records.*
 
